@@ -1,9 +1,5 @@
 [
   {
-    "package": "ojodb",
-    "url": "https://github.com/openjusticeok/ojodb"
-  },
-  {
     "package": "tidyverse",
     "url": "https://github.com/tidyverse/tidyverse",
     "version": "*release"
