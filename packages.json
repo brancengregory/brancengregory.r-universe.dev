@@ -3,5 +3,9 @@
     "package": "tidyverse",
     "url": "https://github.com/tidyverse/tidyverse",
     "version": "*release"
+  },
+  {
+    "package": "startrackr",
+    "url": "https://github.com/brancengregory/startrackr"
   }
 ]
