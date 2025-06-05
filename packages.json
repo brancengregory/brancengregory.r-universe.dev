@@ -1,5 +1,9 @@
 [
   {
+    "package": "secretmanager",
+    "url": "https://github.com/brancengregory/secretmanager"
+  },
+  {
     "package": "startrackr",
     "url": "https://github.com/brancengregory/startrackr"
   },
