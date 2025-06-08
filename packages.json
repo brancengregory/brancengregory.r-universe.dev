@@ -1,7 +1,7 @@
 [
   {
     "package": "secretmanager",
-    "url": "https://github.com/brancengregory/secretmanager"
+    "url": "https://github.com/brancengregory/googlesecretmanager"
   },
   {
     "package": "startrackr",
