@@ -1,6 +1,6 @@
 [
   {
-    "package": "secretmanager",
+    "package": "googlesecretmanager",
     "url": "https://github.com/brancengregory/googlesecretmanager"
   },
   {
